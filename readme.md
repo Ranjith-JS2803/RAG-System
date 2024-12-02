@@ -68,11 +68,15 @@ This system processes various file types (text, audio transcripts, video transcr
    - **Cause**: Missing FFmpeg installation for audio conversion.
    - **Solution**: Installed FFmpeg ([Reference](https://www.wikihow.com/Install-FFmpeg-on-Windows#Steps)).
 
+---
+
 ### Understand Files
 
 - **`constants.py`**: Defines and initializes the LLM, embedding models, and vector database.
 - **`vector_store.py`**: Includes functions for data preprocessing, embedding generation, and vector database storage (FAISS).
 - **`model.py`**: Implements context retrieval and response generation using the LLM.
+
+---
 
 ### Commands to Run the System
 
