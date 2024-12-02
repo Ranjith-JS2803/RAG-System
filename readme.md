@@ -93,3 +93,5 @@ This system processes various file types (text, audio transcripts, video transcr
    To evaluate the system's retrieval and response generation metrics:
    ```bash
    python evaluation.py
+
+---
