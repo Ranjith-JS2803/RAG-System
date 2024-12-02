@@ -6,6 +6,9 @@ This system processes various file types (text, audio transcripts, video transcr
 
 ---
 
+### RAG Architecture
+![RAG_Final](https://github.com/user-attachments/assets/890a5030-d3ed-427d-81d7-6fb59412701e)
+
 ### Workflow
 
 1. **Embedding Creation**
